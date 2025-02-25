@@ -6,3 +6,5 @@ A hotel booking form is a document or online form used to colleact essential inf
 - Room type
 - check-in/check-out dates
 - Number of people
+
+![hotel-logo.png](hotel-logo.jpg)
